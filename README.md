@@ -1,5 +1,15 @@
 # User Service
 
+> **⚠️ INTERVIEW PROJECT ⚠️**
+> 
+> **This codebase contains INTENTIONAL bugs, security vulnerabilities, and bad practices!**
+> 
+> This project is specifically designed as an **interview tool** to evaluate senior Go developers' ability to identify issues in code.
+> 
+> **This code should NOT be used in production.**
+
+---
+
 A simple user management service built with Go.
 
 ## Setup
